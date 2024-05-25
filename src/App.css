@@ -1,3 +1,11 @@
+th {
+  text-align: left;
+  font-size: x-large;
+  font-weight: 500;
+}
+
+
+/* old css */
 .App {
   text-align: center;
 }
